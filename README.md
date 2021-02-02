@@ -6,7 +6,7 @@ This Custom Keycloak Authenticator provides an extra authentication flow to logi
 **Note:** Provide implementation to send SMS in com.sms.keycloak.authentication.sms.SMSImplementation class
 
 ## Standalone install
-1. Then go to the project directory and execute the following command.  This will build the project
+1. Go to the project directory and execute the following command.  This will build the project
 
    `mvn clean install`
    
