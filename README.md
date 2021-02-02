@@ -21,7 +21,7 @@ Custom SMS Authenticator for Keycloak version 12.0.2
    defined flows.  You cannot modify an built in flows, so, to add the Authenticator you
    have to create your own.  Click the "New" Button.
    
-9: Now give an alias to your form flow e.g (SMSAuthenticationFlow or SMSAuthenticator etc) and save it.
+9. Now give an alias to your form flow e.g (SMSAuthenticationFlow or SMSAuthenticator etc) and save it.
 
 10. Now in your flow , click on "Add Execution" button and then choose "Username Form" as your first execution step and save it.
 
