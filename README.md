@@ -1,7 +1,7 @@
 Custom SMS Authenticator for Keycloak version 12.0.2
 ===================================================
 
-# Standalone install
+## Standalone install
 1. Provide implementation to send SMS in com.sms.keycloak.authentication.sms.SMSImplementation class. 
 
 2. Then go to the project directory and execute the following command.  This will build the project
